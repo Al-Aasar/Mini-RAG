@@ -1,0 +1,49 @@
+{
+  "info": {
+    "_postman_id": "fe58d0ef-795f-40bf-ab82-730106780937",
+    "name": "Mini-RAG",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52037894",
+    "_collection_link": "https://go.postman.co/collection/52037894-fe58d0ef-795f-40bf-ab82-730106780937?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "welcom",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "API",
+      "value": ""
+    }
+  ]
+}
