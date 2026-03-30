@@ -8,7 +8,7 @@ This is a minimal implementation of the RAG model for question answering.
 
 ### Install Python using MiniConda
 
-1) Download and install MiniConda from [here](https://www.anaconda.com/docs/getting-started/miniconda/main#quick-command-line-install)
+1) Download and install MiniConda from [Here](https://www.anaconda.com/docs/getting-started/miniconda/main#quick-command-line-install)
 
 2) Create a new environment using the following command:
 
@@ -51,5 +51,5 @@ $ uvicorn main:app --reload --host 0.0.0.0 --port 5000
 ```
 ## POSTMAN Collection 
 
-Download the POSTMAN collection from [/assets/mini-rag-app.postman_collection.json](/assets/mini-rag-app.postman_collection.json)
+Download the POSTMAN collection from [Here](https://github.com/Al-Aasar/Mini-RAG/blob/main/assets/Mini-RAG.postman_collection.json)
 
